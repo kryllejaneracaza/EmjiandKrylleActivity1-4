@@ -1,0 +1,14 @@
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\bin\Debug\net8.0\ActivitywithArray.exe
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\bin\Debug\net8.0\ActivitywithArray.deps.json
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\bin\Debug\net8.0\ActivitywithArray.runtimeconfig.json
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\bin\Debug\net8.0\ActivitywithArray.dll
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\bin\Debug\net8.0\ActivitywithArray.pdb
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.AssemblyInfoInputs.cache
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.AssemblyInfo.cs
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.csproj.CoreCompileInputs.cache
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.dll
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\refint\ActivitywithArray.dll
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.pdb
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ActivitywithArray.genruntimeconfig.cache
+C:\Users\krylle\source\repos\ActivitywithArray\ActivitywithArray\obj\Debug\net8.0\ref\ActivitywithArray.dll
